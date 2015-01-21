@@ -6,7 +6,7 @@ baseurl:
 url: "http://fanxiaojian.github.io"
 twitter_username: xiaojian
 github_username:  xiaojian
-facebook_username:  100008541150823
+facebook_username:  
 
 # Build settings
 markdown: kramdown
@@ -18,7 +18,7 @@ exclude: ["node_modules"]
 name: 小贱
 qq: 1926595118
 duoshuo: xiaojian
-weibo: 18392437483
+weibo: 范小贱YY
 github: xiaojian
 pygments: true
 safe: true
