@@ -1,0 +1,25 @@
+# Site settings
+title:  小贱
+email: 1926595118@qq.com
+description: "hello world!......."
+baseurl: 
+url: "http://fanxiaojian.github.io"
+twitter_username: xiaojian
+github_username:  xiaojian
+facebook_username:  100008541150823
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+name: 小贱
+qq: 1926595118
+duoshuo: xiaojian
+weibo: 18392437483
+github: xiaojian
+pygments: true
+safe: true
+# paginate: 20
